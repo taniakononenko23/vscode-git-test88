@@ -1,5 +1,5 @@
-no-var
-eqeqeq
-no-undef
-no-plusplus
-no-return-assign
+eslint(no-var)
+eslint(eqeqeq)
+eslint(no-undef)
+eslint(no-plusplus)
+eslint(no-return-assign)
